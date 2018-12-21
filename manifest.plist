@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://ttwh.coslife.cn/6.jpg</string>
+					<string>http://img-qn.test.dofuntech.cn/TIM图片20181221153329.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://ttwh.coslife.cn/6.jpg</string>
+					<string>http://img-qn.test.dofuntech.cn/TIM图片20181221153329.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -35,7 +35,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>91天天武汉麻将</string>
+				<string>诵习练学生端</string>
 			</dict>
 		</dict>
 	</array>
